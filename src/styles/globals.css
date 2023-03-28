@@ -9,3 +9,14 @@
 body {
   background-color: var(--default-background);
 }
+
+button.ant-btn.ant-btn-primary {
+  background-color: #1677ff;
+}
+
+ .ant-btn-sm.ant-btn-icon-only {
+   display: flex !important;
+   align-items: center;
+   justify-content: center;
+   color: whitesmoke;
+ }
