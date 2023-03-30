@@ -1,5 +1,5 @@
 import { UserTableComponent } from "@components/UserTable";
-import { User } from "@types/user";
+import { User } from "@src/types/user";
 import axios, { AxiosResponse } from "axios";
 import { useEffect, useState } from "react";
 

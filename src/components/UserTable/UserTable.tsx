@@ -1,4 +1,4 @@
-import { User } from "@types/user";
+import { User } from "@src/types/user";
 import { useContext } from "react";
 import { Table } from "antd";
 import { listToColumns } from "./columnMapper";

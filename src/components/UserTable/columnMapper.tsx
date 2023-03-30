@@ -1,6 +1,6 @@
-import { Address } from "@types/address";
-import { Company } from "@types/company";
-import { User } from "@types/user";
+import { Address } from "@src/types/address";
+import { Company } from "@src/types/company";
+import { User } from "@src/types/user";
 
 export const columnMapper = {
   id: {
